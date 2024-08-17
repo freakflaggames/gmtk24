@@ -30,8 +30,19 @@ public class ProceduralTail : MonoBehaviour
             bodyParts[i] = Instantiate(colliderPrefab);
             bodyParts[i].transform.SetParent(transform);
         }
+
+        InitializeTail();
     }
-    private void FixedUpdate()
+    public void InitializeTail()
+    {
+        for (int i = 1; i < segmentPoses.Length; i++)
+        {
+            segmentPoses[i] = segmentPoses[i - 1] - Vector3.up * targetDist;
+            bodyParts[i - 1].transform.position = segmentPoses[i];
+        }
+        lr.SetPositions(segmentPoses);
+    }
+    private void LateUpdate()
     {
         segmentPoses[0] = targetDir.position;
 
