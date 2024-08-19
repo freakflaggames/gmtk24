@@ -14,6 +14,9 @@ public class ProceduralTail : MonoBehaviour
     public float currentDist;
     public float smoothSpeed;
 
+    public float tailWidth;
+    public float tailTaper;
+
     public GameObject[] bodyParts;
     public GameObject colliderPrefab;
      
@@ -29,6 +32,19 @@ public class ProceduralTail : MonoBehaviour
         {
             bodyParts[i] = Instantiate(colliderPrefab);
             bodyParts[i].transform.SetParent(transform);
+            print((float)(i / bodyParts.Length));
+            bodyParts[i].transform.localScale = Vector3.one - Vector3.up * (float)(i / bodyParts.Length);
+
+            BodyRotation body = bodyParts[i].GetComponent<BodyRotation>();
+
+            if (i > 1)
+            {
+                body.target = bodyParts[i - 1].transform;
+            }
+            else
+            {
+                body.target = transform;
+            }
         }
 
         InitializeTail();
@@ -42,7 +58,7 @@ public class ProceduralTail : MonoBehaviour
         }
         lr.SetPositions(segmentPoses);
     }
-    private void LateUpdate()
+    private void Update()
     {
         segmentPoses[0] = targetDir.position;
 

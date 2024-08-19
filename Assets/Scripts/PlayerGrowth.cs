@@ -23,8 +23,8 @@ public class PlayerGrowth : MonoBehaviour
 
         transform.localScale = Vector3.one * growAmount;
 
-        tail.lr.startWidth = growAmount;
-        tail.lr.endWidth = growAmount;
+        tail.lr.startWidth = growAmount * tail.tailWidth;
+        tail.lr.endWidth = growAmount * tail.tailWidth;
 
         tail.currentDist = growAmount * tail.targetDist;
     }

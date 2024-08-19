@@ -180,6 +180,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   deathTime: 0.5
   deathParticles: {fileID: 1742526112396618394, guid: 14724c5e414005542b074ab95e5763d5, type: 3}
+  isDead: 0
+  lastCheckpoint: {fileID: 0}
 --- !u!1 &5253316101896061749
 GameObject:
   m_ObjectHideFlags: 0
@@ -338,7 +340,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71ee7fe6d8910bb4f82015d2cf35bce8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  length: 20
+  length: 8
   lr: {fileID: 2881511587602629412}
   segmentPoses:
   - {x: 0, y: 0, z: 0}
@@ -362,8 +364,9 @@ MonoBehaviour:
   - {x: 0, y: 0, z: 0}
   - {x: 0, y: 0, z: 0}
   targetDir: {fileID: 4170936474124291181}
-  targetDist: 0.2
+  targetDist: 0.41
   currentDist: 0
-  smoothSpeed: 0.01
+  smoothSpeed: 0
+  tailWidth: 0
   bodyParts: []
   colliderPrefab: {fileID: 5339213145637570591, guid: 8689e727cb69a6647aa8c66ccc357e14, type: 3}

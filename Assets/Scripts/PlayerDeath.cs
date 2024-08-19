@@ -14,6 +14,10 @@ public class PlayerDeath : MonoBehaviour
 
     public delegate void PlayerDied();
     public static event PlayerDied playerDied;
+
+    public delegate void PlayerRespawned();
+    public static event PlayerRespawned playerRespawned;
+
     private void Awake()
     {
         movement = GetComponent<PlayerMovement>();
@@ -30,20 +34,28 @@ public class PlayerDeath : MonoBehaviour
     public void Respawn()
     {
         transform.position = lastCheckpoint.transform.position;
+
         isDead = false;
+        playerRespawned?.Invoke();
+
         movement.canMove = true;
         movement.drag = 0;
         movement.boost = 0;
+
         tail.InitializeTail();
+
         gameObject.SetActive(true);
     }
 
     IEnumerator WaitToDie()
     {
         yield return new WaitForSeconds(deathTime);
-        playerDied?.Invoke();
-        gameObject.SetActive(false);
-        Instantiate(deathParticles, transform.position, Quaternion.identity);
+
         isDead = true;
+        playerDied?.Invoke();
+
+        Instantiate(deathParticles, transform.position, Quaternion.identity);
+
+        gameObject.SetActive(false);
     }
 }
