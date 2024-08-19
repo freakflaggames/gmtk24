@@ -1,0 +1,33 @@
+{
+  "Rects": null,
+  "Def": {
+    "__cHei": 8,
+    "__cWid": 6,
+    "cachedPixelData": {
+      "opaqueTiles": "000000000000000000000000000000000000000000000000",
+      "averageColors": "8a5689558a56895500000000a822b722a822b722000000008a5599558a55995500000000a722b712a955b94400000000894499448a55995500000000a711b711aa67b955000000009723a7229a67aa6600000000a711b611aa77ba6600000000"
+    },
+    "customData": [
+
+    ],
+    "embedAtlas": null,
+    "enumTags": [
+
+    ],
+    "identifier": "_Treasure_Animation",
+    "padding": 0,
+    "pxHei": 128,
+    "pxWid": 96,
+    "relPath": "wendy - Copy/32px+VXACE/!$Treasure_Animation.png",
+    "savedSelections": [
+
+    ],
+    "spacing": 0,
+    "tags": [
+
+    ],
+    "tagsSourceEnumUid": null,
+    "tileGridSize": 16,
+    "uid": 5
+  }
+}

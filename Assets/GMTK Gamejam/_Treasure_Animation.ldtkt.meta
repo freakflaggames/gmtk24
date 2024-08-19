@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: ec783f7e93601e240b9af9a83e4ada7b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: _Treasure_Animation_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 112
+      width: 16
+      height: 16
+    spriteID: b28149fbaca68834dadf109f2ddc3481
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 112
+      width: 16
+      height: 16
+    spriteID: f1dece64b84c1fd4b947a2707db6b47c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 5f942431544328b44b33342bc668770b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 225070d76e9d6414ebb325fea3358a41
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 112
+      width: 16
+      height: 16
+    spriteID: a4fdc479f9a349d4f8cef9868aaacf2c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 112
+      width: 16
+      height: 16
+    spriteID: 5dd48c1c986b1a0459f1c6e22fce0e1d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 6fed4a6d6a3fd98479b83544320a9fa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 3cce87d8822b37a479c9bb1c12ede3bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 5b751b5d92af91442a9882e1ce1872fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 96
+      width: 16
+      height: 16
+    spriteID: bfdbf556ee83cf24c983d89be63d1ca5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 96
+      width: 16
+      height: 16
+    spriteID: 2fffd82bb9f1005458ad65a8d933f00c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 96
+      width: 16
+      height: 16
+    spriteID: bfab275fa19db7444bb2943e0f413ded
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 4fa7fd8daa1628f46af76512787d168b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 03e1162dcb17bd24686f42cb6a3b6705
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 059e7850f22622c4d9c0a838e3952446
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 80
+      width: 16
+      height: 16
+    spriteID: acd9bc20da20c1040bbcc23c35ee234e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 80
+      width: 16
+      height: 16
+    spriteID: 742b84f15c7b68f49bc74976d83e245f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 80
+      width: 16
+      height: 16
+    spriteID: f70f52e2db660d343b571ba11c85701e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 1ada7194561ad1a4293eba3cf2cb2e8b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 64
+      width: 16
+      height: 16
+    spriteID: b1d449f341bb49544b38302cad3c86ce
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 4ba0c64f29c41614eb345bd22cf6b977
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 64
+      width: 16
+      height: 16
+    spriteID: ad69084231757774c9383e19645fa6fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 64
+      width: 16
+      height: 16
+    spriteID: d5e53f7befeed67409b3569bd1e00962
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 64
+      width: 16
+      height: 16
+    spriteID: 9406e80833daaaa4fb7165a5a6e1ef3d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 33da3b8c64d5a414386eda5475949965
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 7eb1c80ecca7c754e94868aac9250e6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 01c0211b3b424b24992703834faa715d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 1f8a66acb6bd49f44ace62d9a49ac7a9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 48
+      width: 16
+      height: 16
+    spriteID: 2acacb54f52644440b3c0f63f19f1388
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 48
+      width: 16
+      height: 16
+    spriteID: f9fac7b74464a07479532a083242cb0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8cb4fe56c69957a42a6b397c4c43f5b5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 32
+      width: 16
+      height: 16
+    spriteID: df62511de6ed5b04f8ea6e4c8f300288
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 32
+      width: 16
+      height: 16
+    spriteID: be52688d02ced8c40a69cbc4f3ac68ed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 32
+      width: 16
+      height: 16
+    spriteID: aaa930869db09314588d3c444238fcff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 8caa0bbacd7dc064a969daeee8d188dc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 32
+      width: 16
+      height: 16
+    spriteID: 3632ed2580ad6c145af8459a7d514a98
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 16
+      width: 16
+      height: 16
+    spriteID: f14a33ce9c5aa364da9503964474902b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 16
+      width: 16
+      height: 16
+    spriteID: a76a36a0729e3094e8de0cf15e01210b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 16
+      width: 16
+      height: 16
+    spriteID: d24397dfdc72cd74c99dee355183e8b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 16
+      width: 16
+      height: 16
+    spriteID: bff910f8262f8ca46af1cb205e837a11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 16
+      width: 16
+      height: 16
+    spriteID: ec528a3d97ba8a6438933cbf5a527b9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 16
+      width: 16
+      height: 16
+    spriteID: 99131ed75bd12a347ae29891a98b2a6f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 7587d381730e655499962168710adcdb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 16
+    spriteID: fc8f617b3640e9846884825245290188
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 16
+    spriteID: d445b4b9b1c7c3748b8e4b9535f769e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 47ee2da03c8ccd547962f459ccc20293
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 1a260c01115ba4447b699853bac230e9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: _Treasure_Animation_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 16
+    spriteID: 2b9f10c8b7c6f2743be3910193d63055
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
