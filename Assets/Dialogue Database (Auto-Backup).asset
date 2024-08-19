@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 935899b62f48ae5498594680ed17d133, type: 3}
-  m_Name: Dialogue Database
+  m_Name: Dialogue Database (Auto-Backup)
   m_EditorClassIdentifier: 
   version: 
   author: 
@@ -653,7 +653,9 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: "SetDialoguePanel(false)@Message(Typed)->Message(Hidden); // Hide
+          UI as soon as typewriter finishes.\r\nDelay(2)@Message(Hidden)->Message(Reappear);
+          // When UI is hidden, wait 2 more seconds...\r"
         type: 0
         typeString: 
       - title: Response Menu Sequence
@@ -671,7 +673,7 @@ MonoBehaviour:
       - originConversationID: 2
         originDialogueID: 3
         destinationConversationID: 2
-        destinationDialogueID: 5
+        destinationDialogueID: 4
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -685,7 +687,7 @@ MonoBehaviour:
         y: 293
         width: 160
         height: 30
-    - id: 5
+    - id: 4
       fields:
       - title: Title
         value: 
@@ -696,11 +698,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Actor
-        value: 1
+        value: 2
         type: 5
         typeString: CustomFieldType_Actor
       - title: Conversant
-        value: 2
+        value: 1
         type: 5
         typeString: CustomFieldType_Actor
       - title: Menu Text
@@ -708,7 +710,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Uh oh.
+        value: 
         type: 0
         typeString: 
       - title: Sequence
@@ -730,8 +732,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 214
-        y: 382
+        x: 210
+        y: 387
         width: 160
         height: 30
     entryGroups: []
