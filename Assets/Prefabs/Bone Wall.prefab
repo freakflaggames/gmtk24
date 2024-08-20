@@ -98,8 +98,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e8725339c94ccb48aa0a288a9b2e6c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  necessarySpeed: 20
-  waitTime: 0.25
+  necessarySpeed: 15
+  waitTime: 0.1
   brokenWall: {fileID: 1296542244691256410, guid: 440061e0a97503a49a4dc5fa2d895fbd, type: 3}
 --- !u!61 &7413627800738603033
 BoxCollider2D:
