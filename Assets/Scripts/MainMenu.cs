@@ -11,7 +11,7 @@ public class MainMenu : MonoBehaviour
     //Start button
     public void StartGame()
     {
-        ToMainMenu();
+        SceneManager.LoadScene("LDTK ImportSoftware");
     }
 
     //Settings button

@@ -1087,7 +1087,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "INFESTATION \nSTATION"
+  m_text: 'Oh,
+
+    Worm?'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 61b2dd380415f4c14b23bbbf7fc83b43, type: 2}
   m_sharedMaterial: {fileID: -4282944848471381558, guid: 61b2dd380415f4c14b23bbbf7fc83b43, type: 2}

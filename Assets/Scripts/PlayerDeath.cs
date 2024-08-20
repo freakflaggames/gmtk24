@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using PixelCrushers.DialogueSystem.SequencerCommands;
 using UnityEngine;
 
 public class PlayerDeath : MonoBehaviour
@@ -27,6 +28,7 @@ public class PlayerDeath : MonoBehaviour
     {
         movement.canMove = false;
         StartCoroutine(WaitToDie());
+        Application.LoadLevelAdditive(5);
     }
     private void Update()
     {

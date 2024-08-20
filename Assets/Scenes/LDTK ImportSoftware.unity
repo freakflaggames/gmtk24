@@ -832,8 +832,8 @@ MonoBehaviour:
   preventRestartOnSameFrameEnded: 1
   stopConversationOnTriggerExit: 0
   marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
+  stopConversationIfTooFar: 1
+  maxConversationDistance: 1
   monitorConversationDistanceFrequency: 1
   showCursorDuringConversation: 0
   pauseGameDuringConversation: 0
@@ -2358,6 +2358,63 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: -16, y: -16}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &269850687
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (12)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
 --- !u!1 &278984804 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
@@ -2426,8 +2483,8 @@ MonoBehaviour:
   preventRestartOnSameFrameEnded: 1
   stopConversationOnTriggerExit: 0
   marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
+  stopConversationIfTooFar: 1
+  maxConversationDistance: 1
   monitorConversationDistanceFrequency: 1
   showCursorDuringConversation: 0
   pauseGameDuringConversation: 0
@@ -2513,7 +2570,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
       propertyPath: m_Name
-      value: Checkpoint_BileTut (1)
+      value: Checkpoint_PimpTut (1)
       objectReference: {fileID: 0}
     - target: {fileID: 2547436011362032176, guid: 3de560693192314409599a58cd960110, type: 3}
       propertyPath: m_Enabled
@@ -2644,8 +2701,8 @@ MonoBehaviour:
   preventRestartOnSameFrameEnded: 1
   stopConversationOnTriggerExit: 0
   marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
+  stopConversationIfTooFar: 1
+  maxConversationDistance: 1
   monitorConversationDistanceFrequency: 1
   showCursorDuringConversation: 0
   pauseGameDuringConversation: 0
@@ -4597,8 +4654,8 @@ MonoBehaviour:
   preventRestartOnSameFrameEnded: 1
   stopConversationOnTriggerExit: 0
   marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
+  stopConversationIfTooFar: 1
+  maxConversationDistance: 1
   monitorConversationDistanceFrequency: 1
   showCursorDuringConversation: 0
   pauseGameDuringConversation: 0
@@ -4910,7 +4967,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -5958,10 +6015,10 @@ RectTransform:
   - {fileID: 2034492776}
   m_Father: {fileID: 1304451393}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 103.19774, y: -17}
-  m_SizeDelta: {x: 100, y: 26}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &719524836
 MonoBehaviour:
@@ -10199,7 +10256,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 125852, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 425660, guid: 58ac37417e60e534f91138088a3e6f70, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11427,6 +11484,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Checkpoint_ObjectiveTut
       objectReference: {fileID: 0}
+    - target: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2547436011362032176, guid: 3de560693192314409599a58cd960110, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -12160,7 +12221,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 8}
-  m_SizeDelta: {x: 157.19774, y: 34}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!95 &1304451394
 Animator:
@@ -16299,10 +16360,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1304451393}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 26.598871, y: -17}
-  m_SizeDelta: {x: 45.197742, y: 26}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1803909915
 MonoBehaviour:
@@ -17612,162 +17673,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1989992175
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_Name
-      value: Checkpoint_BileTut
-      objectReference: {fileID: 0}
-    - target: {fileID: 2547436011362032176, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_Enabled
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 13.545282
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 18.98
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 44.82
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 90
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1989992178}
-  m_SourcePrefab: {fileID: 100100000, guid: 3de560693192314409599a58cd960110, type: 3}
---- !u!1 &1989992176 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 693062231682552841, guid: 3de560693192314409599a58cd960110, type: 3}
-  m_PrefabInstance: {fileID: 1989992175}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1989992177 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4027077356014068172, guid: 3de560693192314409599a58cd960110, type: 3}
-  m_PrefabInstance: {fileID: 1989992175}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1989992178
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1989992176}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c593457cd8105e148906690e1707c592, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  trigger: 8
-  condition:
-    luaConditions: []
-    questConditions: []
-    acceptedTags: []
-    acceptedGameObjects: []
-    luaWizardIndex: -1
-    lastEvaluationValue: 0
-  setQuestState: 1
-  questName: 
-  questState: 0
-  setQuestEntryState: 0
-  questEntryNumber: 1
-  questEntryState: 0
-  setAnotherQuestEntryState: 0
-  anotherQuestEntryNumber: 1
-  anotherQuestEntryState: 0
-  luaCode: 
-  sequence: 
-  sequenceSpeaker: {fileID: 0}
-  sequenceListener: {fileID: 0}
-  waitOneFrameOnStartOrEnable: 1
-  alertMessage: 
-  textTable: {fileID: 0}
-  alertDuration: 0
-  sendMessages: []
-  barkSource: 0
-  barkConversation: 
-  barkEntryID: -1
-  barkEntryTitle: 
-  barkText: 
-  barkTextSequence: 
-  barker: {fileID: 0}
-  barkTarget: {fileID: 0}
-  barkOrder: 0
-  allowBarksDuringConversations: 0
-  skipBarkIfNoValidEntries: 0
-  cacheBarkLines: 0
-  conversation: Bile tutorial
-  conversationConversant: {fileID: 1764499903}
-  conversationActor: {fileID: 1989992177}
-  startConversationEntryID: -1
-  startConversationEntryTitle: 
-  overrideDialogueUI: {fileID: 0}
-  exclusive: 0
-  replace: 0
-  queue: 0
-  skipIfNoValidEntries: 0
-  preventRestartOnSameFrameEnded: 1
-  stopConversationOnTriggerExit: 0
-  marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
-  monitorConversationDistanceFrequency: 1
-  showCursorDuringConversation: 0
-  pauseGameDuringConversation: 0
-  setActiveActions: []
-  setEnabledActions: []
-  setAnimatorStateActions: []
-  onExecute:
-    m_PersistentCalls:
-      m_Calls: []
-  useConversationTitlePicker: 1
-  useBarkTitlePicker: 1
-  useQuestNamePicker: 1
-  selectedDatabase: {fileID: 11400000, guid: 429f3f52c94829f40be7d58f8c1edf19, type: 2}
 --- !u!1 &1991049160
 GameObject:
   m_ObjectHideFlags: 0
@@ -18359,10 +18264,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 719524835}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 68, y: -16}
-  m_SizeDelta: {x: 128, y: 24}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2034492777
 MonoBehaviour:
@@ -18886,8 +18791,8 @@ MonoBehaviour:
   preventRestartOnSameFrameEnded: 1
   stopConversationOnTriggerExit: 0
   marginToAllowTriggerExit: 0.2
-  stopConversationIfTooFar: 0
-  maxConversationDistance: 5
+  stopConversationIfTooFar: 1
+  maxConversationDistance: 1
   monitorConversationDistanceFrequency: 1
   showCursorDuringConversation: 0
   pauseGameDuringConversation: 0
@@ -19959,6 +19864,7 @@ SceneRoots:
   - {fileID: 6587649560768196792}
   - {fileID: 135291057}
   - {fileID: 107070745}
+  - {fileID: 269850687}
   - {fileID: 1157067365}
   - {fileID: 202539920}
   - {fileID: 1279748507}
@@ -19998,7 +19904,6 @@ SceneRoots:
   - {fileID: 1264310592}
   - {fileID: 1017417307}
   - {fileID: 1081841096}
-  - {fileID: 1989992175}
   - {fileID: 292183456}
   - {fileID: 1911007518}
   - {fileID: 1851176672}
