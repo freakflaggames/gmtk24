@@ -123,234 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &10449924
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (34)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 142.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 645.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &33228019
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (13)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 84.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 227.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &55656377
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (11)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 127.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 185.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &71291940
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (24)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 152.94
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 540.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &78027664
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -408,6 +180,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+--- !u!1001 &119649297
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 124.12796
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 69.58586
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1 &122538554
 GameObject:
   m_ObjectHideFlags: 0
@@ -549,120 +378,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9e98eb7c98aa3974898aa858ab0b24c7, type: 3}
---- !u!1001 &150318096
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (38)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 211
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 664.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &152957880
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (8)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 87.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 49.84
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1 &172611611 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -680120722123400949, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
@@ -738,6 +453,63 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1001 &202539920
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 65.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 44.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
 --- !u!1 &205541796
 GameObject:
   m_ObjectHideFlags: 0
@@ -945,7 +717,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &333577408
+--- !u!1001 &237296421
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -955,15 +727,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (15)
+      value: Pimple Hazard (33)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 140.4
+      value: 73.48
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 281.2
+      value: 569.68677
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1002,7 +774,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &335572831
+--- !u!1001 &290590159
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1012,15 +784,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (4)
+      value: Pimple Hazard (30)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 24.363731
+      value: 133.04964
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.4843864
+      value: 532.70056
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1059,7 +831,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &357599758
+--- !u!1001 &331793274
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1069,15 +841,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (9)
+      value: Pimple Hazard (20)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 125.7
+      value: 97.762
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 94.8
+      value: 435.24924
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1116,7 +888,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &427726277
+--- !u!1001 &332906041
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1126,15 +898,422 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (2)
+      value: Pimple Hazard (44)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 75.83
+      value: 162.94215
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 34.43
+      value: 648.56775
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &334588242
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 95.06484
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 232.00333
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &342798120
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (35)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 126.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 616.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &350273289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (49)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 204.33115
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 687.507
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &411930583
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (32)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 73.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 563.22864
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &428423531
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (48)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 204.6697
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 700.25885
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &430187305
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (45)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 181.42296
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 701.7259
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &447462468
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (27)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.172356
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 490.51
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1178,63 +1357,6 @@ TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: 2551304154527796357, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &462915386
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (10)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 109.07
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 94.29
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1 &463342883
 GameObject:
   m_ObjectHideFlags: 0
@@ -1284,7 +1406,7 @@ TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: -3867835586263144113, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &501517221
+--- !u!1001 &487910460
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1294,15 +1416,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (23)
+      value: Pimple Hazard (14)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 152.94
+      value: 174.70564
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 501.77
+      value: 322.89456
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1468,7 +1590,7 @@ MonoBehaviour:
   m_CameraActivatedEvent:
     m_PersistentCalls:
       m_Calls: []
---- !u!1001 &533383036
+--- !u!1001 &574520021
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1478,129 +1600,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (12)
+      value: Pimple Hazard (9)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 84.4
+      value: 113.955345
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 185.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &623888797
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (35)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 153.1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 622.8
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &665825035
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (31)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 84.3
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 590.6
+      value: 179.74075
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1696,7 +1704,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &705878128
+--- !u!1001 &700322332
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1706,15 +1714,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (21)
+      value: Pimple Hazard (10)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 111.1
+      value: 88.08395
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 418.2
+      value: 235.77461
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1753,7 +1761,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &787223305
+--- !u!1001 &735214849
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1763,15 +1771,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (25)
+      value: Pimple Hazard (46)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 98.5
+      value: 157.50406
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 538.2
+      value: 612.19434
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1805,11 +1813,72 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &794792151
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 116.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 118.73
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
 --- !u!1001 &809186365
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1867,7 +1936,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &836989787
+--- !u!1001 &829073594
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1877,15 +1946,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (28)
+      value: Pimple Hazard (12)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 120.5
+      value: 106.915695
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 537.8
+      value: 195.2389
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1938,11 +2007,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.4
+      value: 0.7
       objectReference: {fileID: 0}
     - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 20.8
+      value: 25.3
       objectReference: {fileID: 0}
     - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1981,7 +2050,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
---- !u!1001 &895430306
+--- !u!1001 &875001988
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -1991,15 +2060,76 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (40)
+      value: Pimple Hazard (43)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 174.5
+      value: 154.4729
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 738
+      value: 645.0909
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &893081878
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 173.00438
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 390.29202
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2038,7 +2168,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &915328914
+--- !u!1001 &912623286
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2048,15 +2178,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (37)
+      value: Pimple Hazard (38)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 174.6
+      value: 113.5073
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 664.3
+      value: 648.2297
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2089,6 +2219,10 @@ PrefabInstance:
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2152,6 +2286,63 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+--- !u!1001 &956764467
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (29)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 148.34901
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 547.92456
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &960168159
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2162,11 +2353,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.9
+      value: 0.8
       objectReference: {fileID: 0}
     - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 29.1
+      value: 31.7
       objectReference: {fileID: 0}
     - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2209,6 +2400,120 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+--- !u!1001 &961020616
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 117.016335
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 41.99282
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &985988261
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (22)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 110.29864
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 432.5565
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &1065174479
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2266,7 +2571,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &1075526643
+--- !u!1001 &1139266794
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2276,129 +2581,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (1)
+      value: Pimple Hazard (18)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.412178
+      value: 150.25746
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.9720573
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1085135322
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (33)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 127.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 624
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1150162380
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (3)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 24.363731
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 4.184475
+      value: 420.97333
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2504,6 +2695,63 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &1190476112
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 127.35555
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 160.89201
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &1229337300
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2561,7 +2809,64 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &1252035616
+--- !u!1001 &1279748507
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 116.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+--- !u!1001 &1285311503
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2571,15 +2876,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (18)
+      value: Pimple Hazard (1)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 155.54
+      value: 75.44301
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 350.28
+      value: 36.86079
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2618,7 +2923,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1333018801
+--- !u!1001 &1300288243
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2628,15 +2933,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (14)
+      value: Pimple Hazard (28)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 111
+      value: 147.75595
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 253.1
+      value: 498.4532
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2675,7 +2980,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1349953506
+--- !u!1001 &1301675050
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2685,15 +2990,84 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (20)
+      value: Pimple Hazard (42)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 94.7
+      value: 106.969406
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 441.6
+      value: 639.2267
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1321282167
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (16)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6552
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5891
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 131.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 360.14
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2732,7 +3106,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1441546094
+--- !u!1001 &1363520665
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2742,15 +3116,304 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard
+      value: Pimple Hazard (24)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.6
+      value: 106.49
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
+      value: 498.7746
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1390563045
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 111.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 147.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+--- !u!1001 &1416233375
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 101.61321
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 36.9619
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1425228974
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (39)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 122.40313
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 648.5512
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1433200562
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 92.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 181.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+--- !u!1001 &1452838642
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 125.02876
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 60.34077
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2794,7 +3457,7 @@ TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: 7150669372479235156, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1484845852
+--- !u!1001 &1526093548
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2804,15 +3467,137 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (39)
+      value: Pimple Hazard (36)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 211
+      value: 135.6
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 738
+      value: 615.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1528816657
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (40)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 133.76407
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 648.5512
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1583032912
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (19)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 108.78216
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 445.68054
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2851,7 +3636,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &1550569646
+--- !u!1001 &1591112485
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -2861,15 +3646,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (30)
+      value: Pimple Hazard (7)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 61
+      value: 117.93125
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 581.2
+      value: 165.6778
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -2908,131 +3693,131 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1591846463
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 86.70845
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 48.361088
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1595438061
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_Name
+      value: Boost (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 32.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 44.27
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
 --- !u!19719996 &1672182040 stripped
 TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: -8620767793900816707, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1688796087
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (22)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 131.44
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 517.56
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!19719996 &1702971614 stripped
 TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: 7404630542729565104, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1745141088
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 105.9
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 454
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1052509971325615464, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_Name
-      value: Bone Wall (7)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &1761740520
+--- !u!1001 &1737012779
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3042,15 +3827,23 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (26)
+      value: Pimple Hazard (15)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.6552
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.5891
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 86.3
+      value: 165.53
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 559.4
+      value: 329.07
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3105,7 +3898,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66ebd6b02b310e3488a4bbfd9cb4fd79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1001 &1777776618
+--- !u!1001 &1783215060
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3115,15 +3908,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (19)
+      value: Pimple Hazard (34)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 152.08
+      value: 181.39537
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 390.73
+      value: 688.567
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3250,63 +4043,6 @@ MonoBehaviour:
   virtualCamera: {fileID: 1800596534}
   player: {fileID: 1764499904}
   zoomOutSpeed: 1
---- !u!1001 &1810777499
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (27)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 127.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 559.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!19719996 &1813914535 stripped
 TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: 3476240491863299089, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
@@ -3521,7 +4257,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
---- !u!1001 &1887401148
+--- !u!1001 &1872464756
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3529,55 +4265,169 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (21)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 105.9
+      value: 97.21164
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 454
+      value: 429.4295
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 350339710690661847, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1052509971325615464, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
-      propertyPath: m_Name
-      value: Bone Wall (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6293192ef65a9844c9e09737bb53f021, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1888757705
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (17)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 132.04547
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 430.37857
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1889860380
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (31)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 73.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 578.1139
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &1911007518
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3639,125 +4489,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3de560693192314409599a58cd960110, type: 3}
---- !u!1001 &1923527152
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (29)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 61
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 547.6
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!19719996 &1939398561 stripped
 TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: -7572121173476477671, guid: 429b559aa315e9f4e81411e7db6d13da, type: 3}
   m_PrefabInstance: {fileID: 1851176672}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1954408643
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (6)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 98.44
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 34.43
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1 &1960206142
 GameObject:
   m_ObjectHideFlags: 0
@@ -3842,7 +4578,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1984760924
+--- !u!1001 &1972878060
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -3852,15 +4588,76 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (17)
+      value: Pimple Hazard (41)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 162.7
+      value: 142.76707
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 321.21
+      value: 648.6584
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+--- !u!1001 &1983882904
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (13)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 99.73072
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 204.02055
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3983,63 +4780,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2037895566
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 29.427126
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 1.0970402
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1 &2040433798
 GameObject:
   m_ObjectHideFlags: 0
@@ -4124,7 +4864,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2053688799
+--- !u!1001 &2067812707
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -4134,15 +4874,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (36)
+      value: Pimple Hazard (47)
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 142.8
+      value: 148.94565
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 645.8
+      value: 612.19434
       objectReference: {fileID: 0}
     - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
       propertyPath: m_LocalPosition.z
@@ -4176,12 +4916,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &2090332709
+--- !u!1001 &2116309146
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -4189,47 +4933,47 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 3197942144674306362, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_Name
-      value: Pimple Hazard (32)
+      value: Boost (4)
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 113.3
+      value: 116.57
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 645.1
+      value: 78.43
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+    - target: {fileID: 7923637085953357503, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
@@ -4237,64 +4981,7 @@ PrefabInstance:
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
---- !u!1001 &2100850603
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_Name
-      value: Pimple Hazard (16)
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 165.4
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 281.2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: fb37d4a54acb0fd4c86ff4e212167ff3, type: 3}
 --- !u!1 &2121276350
 GameObject:
   m_ObjectHideFlags: 0
@@ -4379,6 +5066,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &2129467980
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 372719324585236642, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_Name
+      value: Pimple Hazard (37)
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 144.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 618.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6494170067225290375, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6669364747335669486, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
+      propertyPath: minDistance
+      value: 13
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ff3626c8616f22040b5bd0626187e2af, type: 3}
 --- !u!1001 &561219089962609262
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4502,59 +5250,24 @@ SceneRoots:
   - {fileID: 1800596535}
   - {fileID: 6587649560768196792}
   - {fileID: 135291057}
-  - {fileID: 1441546094}
   - {fileID: 873950595}
+  - {fileID: 1595438061}
+  - {fileID: 202539920}
+  - {fileID: 1279748507}
+  - {fileID: 2116309146}
+  - {fileID: 794792151}
+  - {fileID: 1390563045}
+  - {fileID: 1433200562}
   - {fileID: 960168159}
   - {fileID: 1229337300}
   - {fileID: 1065174479}
   - {fileID: 670220735}
-  - {fileID: 1887401148}
   - {fileID: 78027664}
   - {fileID: 935910172}
   - {fileID: 1858967210}
-  - {fileID: 1745141088}
   - {fileID: 809186365}
-  - {fileID: 1075526643}
-  - {fileID: 427726277}
-  - {fileID: 1954408643}
-  - {fileID: 152957880}
-  - {fileID: 357599758}
-  - {fileID: 55656377}
-  - {fileID: 533383036}
-  - {fileID: 33228019}
-  - {fileID: 1333018801}
-  - {fileID: 333577408}
-  - {fileID: 1984760924}
-  - {fileID: 1252035616}
-  - {fileID: 1777776618}
-  - {fileID: 1349953506}
-  - {fileID: 705878128}
-  - {fileID: 1688796087}
-  - {fileID: 501517221}
-  - {fileID: 71291940}
-  - {fileID: 787223305}
-  - {fileID: 1761740520}
-  - {fileID: 1810777499}
-  - {fileID: 836989787}
-  - {fileID: 1923527152}
-  - {fileID: 1550569646}
-  - {fileID: 665825035}
-  - {fileID: 2090332709}
-  - {fileID: 1085135322}
-  - {fileID: 10449924}
-  - {fileID: 623888797}
-  - {fileID: 2053688799}
-  - {fileID: 915328914}
-  - {fileID: 150318096}
-  - {fileID: 1484845852}
-  - {fileID: 895430306}
-  - {fileID: 2100850603}
-  - {fileID: 462915386}
   - {fileID: 561219089962609262}
   - {fileID: 1911007518}
-  - {fileID: 1150162380}
-  - {fileID: 335572831}
-  - {fileID: 2037895566}
   - {fileID: 1851176672}
   - {fileID: 205541798}
   - {fileID: 2040433800}
@@ -4562,3 +5275,50 @@ SceneRoots:
   - {fileID: 1991049162}
   - {fileID: 1960206144}
   - {fileID: 2121276352}
+  - {fileID: 893081878}
+  - {fileID: 1285311503}
+  - {fileID: 1591846463}
+  - {fileID: 1416233375}
+  - {fileID: 961020616}
+  - {fileID: 1452838642}
+  - {fileID: 119649297}
+  - {fileID: 1591112485}
+  - {fileID: 1190476112}
+  - {fileID: 574520021}
+  - {fileID: 700322332}
+  - {fileID: 334588242}
+  - {fileID: 829073594}
+  - {fileID: 1983882904}
+  - {fileID: 487910460}
+  - {fileID: 1737012779}
+  - {fileID: 1321282167}
+  - {fileID: 1888757705}
+  - {fileID: 1139266794}
+  - {fileID: 1583032912}
+  - {fileID: 331793274}
+  - {fileID: 1872464756}
+  - {fileID: 985988261}
+  - {fileID: 1363520665}
+  - {fileID: 447462468}
+  - {fileID: 1300288243}
+  - {fileID: 956764467}
+  - {fileID: 290590159}
+  - {fileID: 1889860380}
+  - {fileID: 411930583}
+  - {fileID: 237296421}
+  - {fileID: 342798120}
+  - {fileID: 1526093548}
+  - {fileID: 2129467980}
+  - {fileID: 912623286}
+  - {fileID: 1425228974}
+  - {fileID: 1528816657}
+  - {fileID: 1972878060}
+  - {fileID: 1301675050}
+  - {fileID: 875001988}
+  - {fileID: 332906041}
+  - {fileID: 735214849}
+  - {fileID: 2067812707}
+  - {fileID: 1783215060}
+  - {fileID: 430187305}
+  - {fileID: 428423531}
+  - {fileID: 350273289}
