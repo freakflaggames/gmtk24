@@ -7,7 +7,7 @@ public class PimpleHazard : MonoBehaviour
     PlayerMovement player;
     public float minDistance;
     public ImmuneCell[] cells;
-
+    public GameObject poppedPimple;
     private void Awake()
     {
         player = FindAnyObjectByType<PlayerMovement>().gameObject.GetComponent<PlayerMovement>();
@@ -29,6 +29,7 @@ public class PimpleHazard : MonoBehaviour
             cells[i].transform.SetParent(null);
             cells[i].canMove = true;
         }
+        Instantiate(poppedPimple, transform.position, Quaternion.identity);
         Destroy(gameObject);
     }
 }
