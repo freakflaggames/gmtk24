@@ -23,7 +23,7 @@ public class BoneWall : MonoBehaviour
     IEnumerator BreakWall()
     {
         yield return new WaitForSeconds(waitTime);
-        Instantiate(brokenWall, transform.position, Quaternion.identity);
+        Instantiate(brokenWall, transform.position, transform.rotation);
         Destroy(gameObject);
     }
 }
