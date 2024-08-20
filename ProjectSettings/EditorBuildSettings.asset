@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/OhNO!.unity
     guid: 0b9561197bfbe7b4181ebe55b93b2fd7
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: befec6d906774d04aa1d4ca37459b677
   m_configObjects: {}
