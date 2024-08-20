@@ -6,7 +6,7 @@ using TMPro;
 
 public class TimerController : MonoBehaviour
 {
-    [SerializeField] private float timerCounter;
+    [SerializeField] public float timerCounter;
     [SerializeField] private int minutes;
     [SerializeField] private int seconds;
     [SerializeField] private TextMeshProUGUI timerText;
