@@ -7531,7 +7531,7 @@ GameObject:
   - component: {fileID: 2072502433}
   - component: {fileID: 2072502435}
   m_Layer: 0
-  m_Name: Sonic
+  m_Name: Goggles
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7549,7 +7549,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a64578247383140469c45370654a984a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  actor: Sonic
+  actor: Goggles
   persistentDataName: Sonic
   portrait: {fileID: 0}
   spritePortrait: {fileID: 0}
