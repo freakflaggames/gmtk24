@@ -1,0 +1,4942 @@
+fileFormatVersion: 2
+guid: ba75ffe742f0ca2499a58004ea74696f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: f3268c876daf4890b6af6cd462063137, type: 3}
+  _reimportOnDependencyChange: 1
+  _pixelsPerUnit: 16
+  _sprites:
+  - name: Recolored1Purple_0
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 1262ffa935aeb0144b2e278877f0b595
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 239
+      width: 16
+      height: 16
+    spriteID: f4ec9ad1d1b5957498fe4904d5afad69
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 29c07240a3593ad4fbd8a1879a67bb19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 239
+      width: 16
+      height: 16
+    spriteID: a477e881272587c4d8ee8be46c5aaa78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_4
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 5f57b3a8dc3968b4892ae0e73b98a203
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_5
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 9328806f3763cd64bb00af3c23edc3ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 332a7acf9c82bf04c966f94d32180324
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_7
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 239
+      width: 16
+      height: 16
+    spriteID: ca56fcc9c873d80488a319f14b31aab7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 14e916ae58b03274eaf54f29ad7aa9ca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_9
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 1b60bcbab131c854ebd8ab7b25c25e43
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_10
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 239
+      width: 16
+      height: 16
+    spriteID: bd6bd63a2e19daa40995902e6117f881
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_11
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 239
+      width: 16
+      height: 16
+    spriteID: f7a9255891b7a724287de8929cb11e79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_12
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 3037fb794bf004c4e9f1231c9163a040
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_13
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 239
+      width: 16
+      height: 16
+    spriteID: e7157ba25bdf4ac458d3173972eea669
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_14
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 4e471796af3943c4f99694764556711a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_15
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 449259daa96991341afbb2f905067324
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 7f8eb167a26cfe542bc5e73b00941f1e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 0809c3c42dfa70545a48a1dd9f9dbfba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 8eeb2a1169ddc8640a2f05c029e6c582
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 239
+      width: 16
+      height: 16
+    spriteID: bae76d0edeb6dff44a276fb435495d9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_20
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 8a49f66605e63c94682bafdb5ad74ddf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_21
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 239
+      width: 16
+      height: 16
+    spriteID: 0b5149f783ccba54381b8b5f9c78580a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_22
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 9b7793765fbf7df418c56ef3cab20b59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_23
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 223
+      width: 16
+      height: 16
+    spriteID: f5f1d9fff0ae32744a3e3e6a7774bc8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_24
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 8f1221ab58cd0d04e9b660f3ed6f6875
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_25
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 223
+      width: 16
+      height: 16
+    spriteID: ccfedcc3a33221a4f80a30a7ad68557a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_26
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 39d5f08269a33464fa6443e1abc7869a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_27
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 714c7c05ef96f0640aee9ef547d84c6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_28
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 6c396287f84e92c40bf6b6a650075e57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_29
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 00e2cd9071874d64c86f1c9ebff9dbf5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 223
+      width: 16
+      height: 16
+    spriteID: be95ed04ea9176d41986390c7f17733f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 08b29289e3402714c9de885387f207c7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_32
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 7611e0292091a4641b951c5d5d98044e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_33
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 223
+      width: 16
+      height: 16
+    spriteID: bbd460e3267789e44924cf00a5aca651
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_34
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 8423c99a4ef5c45489bc8b3e67525b95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_35
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 223
+      width: 16
+      height: 16
+    spriteID: a67b218f84d54b84e8e692885e07fe89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_36
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 5d01e81f2419bd8439ac3e24f38a9fcd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_37
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 589a95c49fc96a74f9f2bbf9b0b373b3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_38
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 4f600e9de38417947a219a24fc6837aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_39
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 22b5eb15be63e164f84744ea3fadaa0a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_40
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 28f2dbc27a69f9b4988ee79550e24e67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_41
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 223
+      width: 16
+      height: 16
+    spriteID: f437a2963d56ebb4a9103af2f70e775b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_42
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 223
+      width: 16
+      height: 16
+    spriteID: cd8c24a35b02e4843b2427f8a50dc4e0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_43
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 223
+      width: 16
+      height: 16
+    spriteID: 510fe2915d8e00449bb719e398b6bf67
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_44
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 55bbc8e0b66730c4f9aad6e3b2c1113e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_45
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 207
+      width: 16
+      height: 16
+    spriteID: c373e92767f941947875b821dc8e8082
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_46
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 207
+      width: 16
+      height: 16
+    spriteID: d898a163acac2b54aaecdc868fed3564
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_47
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 207
+      width: 16
+      height: 16
+    spriteID: a4e0666817799534ba58a00781d00e00
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_48
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 430bb84a9c5ecfb4ebfe2321d9793f3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_49
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 7aa7749f5b652894bad4d12c033bfaf8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_50
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 207
+      width: 16
+      height: 16
+    spriteID: cb6cc978c145c0c48b6fa375daacb7ad
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_51
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 9d7f7cd48247ada468bdf67d0727fbd9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_52
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 207
+      width: 16
+      height: 16
+    spriteID: d187161d1b7dad343aa60b2a9042a1ac
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_53
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 90ad305bd1f97b54e9ac3dcba4b1600c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_54
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 207
+      width: 16
+      height: 16
+    spriteID: f89b01becd7ae3d4ca61b73f1f2489d3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_55
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 168ff3952dec7604db608de201debc76
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_56
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 207
+      width: 16
+      height: 16
+    spriteID: d430f6cf5cb624d4fa9b3582b33dc682
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_57
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 0b3876194b093fa43a3ce1ad0a48b5bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_58
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 0f32e98ac03aada4e92e71c052c37b65
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_59
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 207
+      width: 16
+      height: 16
+    spriteID: b46cf93d819d7ea47a1a6e244100a407
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_60
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 26d6d3677653f0f4b94e0a4b851ba03d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_61
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 7ae2b0abaef4b9f43953ab29c51f793b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_62
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 281b792b5d70ae549b1f4779a640be35
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_63
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 207
+      width: 16
+      height: 16
+    spriteID: 1d21194ed4e14444795cfd3ab645a337
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_64
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 207
+      width: 16
+      height: 16
+    spriteID: f11a9c48cedfeb74ea00bfb9385156c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_65
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 207
+      width: 16
+      height: 16
+    spriteID: ca22145abf99700489ac6645da796a0f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_66
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 66e7443d3c21bd3409521bb808bdf5b7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_67
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 933eaa1f5956fae48bdec3db2db4d83e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_68
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 191
+      width: 16
+      height: 16
+    spriteID: fd36f0e0604e0ec4ca9824ca7781c197
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_69
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 4e25fb3dd053f474cbfb1cb71543feb6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_70
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 191
+      width: 16
+      height: 16
+    spriteID: c51d5b3dcb8e7f747b198fa5a850de94
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_71
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 3fe28986d6355924dade5d756744d3f6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_72
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 3947de97382565d4abd66d636ee9959e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_73
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 513fbaa50eb329b41a46159609c86bf7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_74
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 191
+      width: 16
+      height: 16
+    spriteID: cf6ae817d0a1d6d439ba3d39b153ab6d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_75
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 643bd9d8fcbd1dd4cb822dcdda34db8f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_76
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 14e95ec915247c941bfc3bd558f63d3c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_77
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 191
+      width: 16
+      height: 16
+    spriteID: cc21a88c320e043478600f2777d8dc27
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_78
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 191
+      width: 16
+      height: 16
+    spriteID: cee05bea4ec99464aa17a32eac2a7b29
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_79
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 191
+      width: 16
+      height: 16
+    spriteID: f4f56be95ad0c3a42b6273129f657252
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_80
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 191
+      width: 16
+      height: 16
+    spriteID: d018c7ec49019a145857dd2d273c73c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_81
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 191
+      width: 16
+      height: 16
+    spriteID: e58e88072ab327542bd868c8df655ab2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_82
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 50895fa8cf4ae464aa2c62b2281dbcc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_83
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 4689a5c35d3924f42aaa847f8db0ce26
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_84
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 8026a08d5b6d2c44cac506d0ddbe996c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_85
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 191
+      width: 16
+      height: 16
+    spriteID: dc367f103e6bc6648997744e925a58ba
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_86
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 23a3c53a595aae54db05ad040f7962c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_87
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 191
+      width: 16
+      height: 16
+    spriteID: 68d842cca51d0b349adaa8bb1b276b7c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_88
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 175
+      width: 16
+      height: 16
+    spriteID: aabf82b0c212a644ab02e3a6dff90552
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_89
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 175
+      width: 16
+      height: 16
+    spriteID: e8cc065e73a28af4cba4768e7907fa9e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_90
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 9613090f1cd42ea47be582a6df6df69f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_91
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 37636d3ac5f39b2419d5b0e899bde527
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_92
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 254a6b85220e6b84c8da26d8f0f8f1f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_93
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 175
+      width: 16
+      height: 16
+    spriteID: c9fc8c2ad356238428ef35cdd47e566d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_94
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 11b7975919b36dd4cbef03090d8e7021
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_95
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 175
+      width: 16
+      height: 16
+    spriteID: a17c3d2c0929dbd41ab4ae5a4fb6ef47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_96
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 7afe38e6e972a624a89930f2a930a07e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_97
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 175
+      width: 16
+      height: 16
+    spriteID: c3138ee7866296142b061abc3c4d5b75
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_98
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 175
+      width: 16
+      height: 16
+    spriteID: bd36f2f618765af4092cb4f80c2b64dd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_99
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 21ef4a910e64aba468eaaad5f3fbdd03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_100
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 788f542d428879c43a704eb4d46cd8bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_101
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 98da6d46f92a88d44a0198060537c82e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_102
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 175
+      width: 16
+      height: 16
+    spriteID: b04f99d9c486afb4a9fe130f48779cfd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_103
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 3ed1d74f85c4ad249a050d0c428c3a2e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_104
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 175
+      width: 16
+      height: 16
+    spriteID: acf2f44e5ba280d40b3e22fc3a2937c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_105
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 8abd11049904e194eb559de802652e6a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_106
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 175
+      width: 16
+      height: 16
+    spriteID: b7b7a6bb306edf449a3f9ded31ab7f78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_107
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 682b7f6587c591f4eafaaa25605b2b54
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_108
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 175
+      width: 16
+      height: 16
+    spriteID: 93daa9fd15fbb364ebc31a088f9bd080
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_109
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 175
+      width: 16
+      height: 16
+    spriteID: f2a47b10d0ae129439154085b375ab52
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_110
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 159
+      width: 16
+      height: 16
+    spriteID: dcafbf1d892fdf0499daee4fcebacfca
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_111
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 159
+      width: 16
+      height: 16
+    spriteID: bc8fddb299ab34f408a3c31fd7e760da
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_112
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 900ce11ca6b011144a5f845e13a3ccdd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_113
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 159
+      width: 16
+      height: 16
+    spriteID: b04f8e30f3e45674f8da1dd57d25355d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_114
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 9489a2d6879d3324da7dec357566ad37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_115
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 5de778033ea5ad14f919b75b85362ac3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_116
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 159
+      width: 16
+      height: 16
+    spriteID: ed0ba41e331ab4947b84d7435411e562
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_117
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 6df3bc047421f76438fca7e0be99ece0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_118
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 11ff9a9257c43de439fc36a267fe0c89
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_119
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 5f57a38c0302c6846a4178077447a331
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_120
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 31f989a78385c5240bbc92519e93283c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_121
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 159
+      width: 16
+      height: 16
+    spriteID: eaf3e9b2ce49be2428b7ad19c4a999d5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_122
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 601d05b11aedae340ba2bfbf80a84078
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_123
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 3fb27b45f78cfc64f9a0e5a156bc26f1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_124
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 159
+      width: 16
+      height: 16
+    spriteID: cc4322e2f474d22429f2e70a549fc484
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_125
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 783accb73ba91c34aaeb7e359d2fc35c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_126
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 11e42d0296f1bb549ba0faa0c8a5b95e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_127
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 159
+      width: 16
+      height: 16
+    spriteID: afdfdb4cca73ace4ca75da13e53c83d8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_128
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 05d7f9b4d5f9be04c874b6f9746da29c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_129
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 159
+      width: 16
+      height: 16
+    spriteID: 6c955306c20e4a147ba96897f334d736
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_130
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 159
+      width: 16
+      height: 16
+    spriteID: b82ff56556f4d624a8e7b97c209b03e7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_131
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 159
+      width: 16
+      height: 16
+    spriteID: c45537fe297763c4984685ffd0406be8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_132
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 65682b15969f2ba45acf824faf4a6599
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_133
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 226716981a37424418e55801b92b9d58
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_134
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 8be6bce64bdecbb4688e9939fa74b1d1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_135
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 143
+      width: 16
+      height: 16
+    spriteID: a5c30738b39cd364a8f8c9bbca6a26ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_136
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 143
+      width: 16
+      height: 16
+    spriteID: f8409339f9f331a468331bc630f9903a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_137
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 46683e56fee7ddb4491d646b3413bcec
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_138
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 143
+      width: 16
+      height: 16
+    spriteID: aeadb584427e1e241a66a2ea9fbfe65c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_139
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 143
+      width: 16
+      height: 16
+    spriteID: a9e640c8b48867448b4082f7f7695607
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_140
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 81f108fa8fc9e414d9c6fbaec572140c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_141
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 143
+      width: 16
+      height: 16
+    spriteID: f5c66dbe2e3c4ac4da81d4ba05dd2de1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_142
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 143
+      width: 16
+      height: 16
+    spriteID: e88b00ecdd68f614d9cb0f887cef5018
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_143
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 2434c1cc6fcb9fb428332e9905b1cee6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_144
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 143
+      width: 16
+      height: 16
+    spriteID: af2e9483978084c4b8a1386fb8c99101
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_145
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 44de8f2a114ceb642ac48dd0518a5c15
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_146
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 70ceab0115ec8cd449cd17e2ddc1a551
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_147
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 33b0991030e77a0409f670a3321a29ea
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_148
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 143
+      width: 16
+      height: 16
+    spriteID: a186a005d1b2e7c448db23c35bc1eb82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_149
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 143
+      width: 16
+      height: 16
+    spriteID: ba5e2ae8003478f4aab861e083886487
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 90de75afd83feea499f4f0210dfece9f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_151
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 143
+      width: 16
+      height: 16
+    spriteID: cb82917dfcecd3f499021333e7165eb0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_152
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 77a91573e3211734bbce80bb24ed93e2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_153
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 143
+      width: 16
+      height: 16
+    spriteID: 2545e1f01a3615346a5fa01ac544dfc7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_154
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 5ee66b6e7760b47498da5ae0914197a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_155
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 0fba78564fda532428c758ec45fb317d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_156
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 762df525a7207314ca42e5178bfb1243
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_157
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 6a95083ab635630498e11ce96c4d93b1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_158
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 397b5d4d16b95474ea407b3cb7f30cf0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_159
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 127
+      width: 16
+      height: 16
+    spriteID: d9409f0fb6a613f41af2900e05c5e761
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_160
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 3ea2b6de5b3ce09499cab5d80689fb4b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_161
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 127
+      width: 16
+      height: 16
+    spriteID: c772364fd97985b4cbc53c20bbb21661
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_162
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 9541ba83a94571343ac4645a23782b56
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_163
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 84b62593894d80d4e858c7f549f6a899
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_164
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 6b5f4f3c517b101489a105621938ea4c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_165
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 0d970e922373bf54c857e987ce9bcb43
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_166
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 1134f82515cd4da499b17c056abcb65c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_167
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 127
+      width: 16
+      height: 16
+    spriteID: b5ce0fa45e4f30946b913efa6af18ee1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_168
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 127
+      width: 16
+      height: 16
+    spriteID: cf73f5ece8ffac94cb84d50c00adc66a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_169
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 08ecb4eadb4e7f940837f2420c8fc30a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_170
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 9826f9bc9beb8ff4cbeeb61a08c2c1ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_171
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 99465cfcf5c75d54f857d863aa25bfe3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_172
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 127
+      width: 16
+      height: 16
+    spriteID: c5136a22f452b7e4fb9e54dad9dd951a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_173
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 8c288933850c06643b553d11a800ec8e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_174
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 127
+      width: 16
+      height: 16
+    spriteID: 6343fd19f94b30f499535585143e39bd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_175
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 127
+      width: 16
+      height: 16
+    spriteID: ff6f5eac38c33554486b15a81660ea57
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_176
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 111
+      width: 16
+      height: 16
+    spriteID: ca57264ca566a3442a6934047385dcbe
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_177
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 3e833e2bda3badd46889c160c575c363
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_178
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 9e2acc48ec63b6a4881a7b64d62fcbfc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_179
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 0bf006d93292bdc4a9bddc06fc200de7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_180
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 1cebee45ddf5e4e4cb84b9603a2de721
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_181
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 1208eeb40a4715542ae1fc6f4345bcf5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_182
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 677144e5b0f654f4c8664de7a9f4b6d2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_183
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 5613208a0c84b134baaa9c8e10b899b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_184
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 111
+      width: 16
+      height: 16
+    spriteID: e0e51508c4a981d4c88347c129faa29e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_185
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 95ef061575403c242b854793805a712b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_186
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 111
+      width: 16
+      height: 16
+    spriteID: bf0bc3cabf673b74ab66aa5558a94a78
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_187
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 271e278a651742541b43478d63b9450f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_188
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 99763f74a83caac4ba1b54965506e17f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_189
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 111
+      width: 16
+      height: 16
+    spriteID: c73b671421109eb45b54fa30bad2ad9d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_190
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 03776a1bf3374c44ea0466927fd203cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_191
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 3d5a28a11af7b684cb68bfb4fbf166a3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_192
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 111
+      width: 16
+      height: 16
+    spriteID: dc74e0fc6d62af54fa1ee85a1ca66e23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_193
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 7a7eebf4fcf75c641a0cfca286174ab3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_194
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 111
+      width: 16
+      height: 16
+    spriteID: cec6641e900a53b4d832b103be1add37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_195
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 111
+      width: 16
+      height: 16
+    spriteID: cb3e00e7817ecb749bcaf204e79ca0cd
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_196
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 04636e2a2be661d46ad7a2d30f306b31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_197
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 111
+      width: 16
+      height: 16
+    spriteID: 8ab4e0db915d03841b72f06f9590c277
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_198
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 95
+      width: 16
+      height: 16
+    spriteID: f0996bb5c6620984586c42d1df2b0990
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_199
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 95
+      width: 16
+      height: 16
+    spriteID: aa7e7652e93c25b48ac17baa4cc1f097
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_200
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 60de5a3dc81419e4f9ffcdc614fa5e73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_201
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 70f6d9b41ee1a194aa26089a49f1259a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_202
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 29c9cb64f2bffdb46baa3b69d9ece6ff
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_203
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 95
+      width: 16
+      height: 16
+    spriteID: f3d912d40aa8dc84f90f545c2969d80a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_204
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 95
+      width: 16
+      height: 16
+    spriteID: d45dec618d8573d498e01c2b9ebd5c51
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_205
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 6b092932d82a83340872d6d3f07da6c5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_206
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 3ca58fd998d847649bb28f701055cda5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_207
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 95
+      width: 16
+      height: 16
+    spriteID: d2ca2d35a89ceee41a3839525c33de95
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_208
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 725d7a873df210c4d885318a96f31e47
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_209
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 514d95ebf36fb4f4397ad5a580461b13
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_210
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 95
+      width: 16
+      height: 16
+    spriteID: db8c777e924457e47981185fda160af9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_211
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 95
+      width: 16
+      height: 16
+    spriteID: f075efdae1340f44e8ac76304c2236de
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_212
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 90a4cd83dbf8f7c4796599bb1876b99b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_213
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 7b330c127b3b4b84baea6500279b6ba0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_214
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 900a76435931ecf4e87d835f62b2a5e8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_215
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 40667bf0a2d1f054485e264e5e359815
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_216
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 4edb30168a345fc43a4c2895b2a1271c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_217
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 087fa6a2c9aa4494aad29d83fd0cefcf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_218
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 95
+      width: 16
+      height: 16
+    spriteID: bb581714b0ec44b4dbc3317d10e337bc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_219
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 95
+      width: 16
+      height: 16
+    spriteID: 43df31977d3a9824399c36a2ada4a509
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_220
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 79
+      width: 16
+      height: 16
+    spriteID: bca01ebd75bd3374c81a150602b7479a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_221
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 79
+      width: 16
+      height: 16
+    spriteID: ef93df4cf858879439a82f2733708681
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_222
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 863e04beb2e6e244fb9b0db04fc2ed11
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_223
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 24f0fe3b201174f449695f239ce3bf39
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_224
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 79
+      width: 16
+      height: 16
+    spriteID: c20513bbcebb32149adba0c0ea0bfc8c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_225
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 79
+      width: 16
+      height: 16
+    spriteID: e08d969012c252b4daca8d54a3c46e60
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_226
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 79
+      width: 16
+      height: 16
+    spriteID: b5944a8003acd644cbab627fed68d4cc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_227
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 79
+      width: 16
+      height: 16
+    spriteID: a83f50c69164f0f45aba590de3531503
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_228
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 38e4c3c6af27353408aa745579b7f40e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_229
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 306df9d911d28b247b401f68536e9810
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_230
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 760ee620172b88e45b499a714e53581b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_231
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 973f7eff9af2de24498183928419e517
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_232
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 79
+      width: 16
+      height: 16
+    spriteID: c548deee15f8cd540a986e319f1b27c0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_233
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 037656c02955ec642aab1b46a9dbbfa3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_234
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 79
+      width: 16
+      height: 16
+    spriteID: ae2e76cc9b9cb0547afdbd64fee77fb2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_235
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 79
+      width: 16
+      height: 16
+    spriteID: d14ab6627fa32494d870281f1a83080c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_236
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 79
+      width: 16
+      height: 16
+    spriteID: c0f0e751aefddbd4898d9704af90d079
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_237
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 8c09b6c1069a4e243a204d16390eb943
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_238
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 79
+      width: 16
+      height: 16
+    spriteID: c395a714126732343bc12eadbdd795a5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_239
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 79
+      width: 16
+      height: 16
+    spriteID: e7a2dc1325d13054db40f866a590bded
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_240
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 583a332c4ac7c3343a4395fd51ce9786
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_241
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 79
+      width: 16
+      height: 16
+    spriteID: 263c20c9cc734e9428310cc9605bb6a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_242
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 63
+      width: 16
+      height: 16
+    spriteID: e6e8e1f841b32fc40bcee634d0c3698b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_243
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 1a7ae9e93839fe34f8c38384aa0ac55c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_244
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 63
+      width: 16
+      height: 16
+    spriteID: d0685c34624ea6245a60ebb5eb774037
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_245
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 5daea7611fa5ed84badf1f76b8ef76f3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_246
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 63
+      width: 16
+      height: 16
+    spriteID: f5fcabc5c88e7f84d9a4dca883d533cf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_247
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 63
+      width: 16
+      height: 16
+    spriteID: ad51a03fc7a00874493791e42a5351a8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_248
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 63
+      width: 16
+      height: 16
+    spriteID: d7e8f271e6535ae48b2e3f74431305be
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_249
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 63
+      width: 16
+      height: 16
+    spriteID: bb7fa6dd1eecbe54c97c866aa9897722
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_250
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 63
+      width: 16
+      height: 16
+    spriteID: bd2971bf770170441a46738d7d4aaf73
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_251
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 63
+      width: 16
+      height: 16
+    spriteID: d0f9c09abe9892e4c9721930709a6ee7
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_252
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 5817dce60f349c94bbc78a6db0554799
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_253
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 63
+      width: 16
+      height: 16
+    spriteID: ee6b9469b10184d4580fec9d73aac112
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_254
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 63
+      width: 16
+      height: 16
+    spriteID: ad4e644efcf8b394eab3a72eecc3d4c8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_255
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 77935a21c755b5a4cb4f0854481e307e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_256
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 63
+      width: 16
+      height: 16
+    spriteID: b8947647436b2734eb876fc469036e31
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_257
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 724aaeea9fabb314685357bb6717c621
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_258
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 94ac98c544012da45a6bb5b500217f5e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_259
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 63
+      width: 16
+      height: 16
+    spriteID: f8caee23eadb20b4ca15c4f271997df3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_260
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 63
+      width: 16
+      height: 16
+    spriteID: 903c7e806cb835d45bd756f81a358047
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_261
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 63
+      width: 16
+      height: 16
+    spriteID: f8b39b04f34454e4c98fa22fb51ca2c1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_262
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 63
+      width: 16
+      height: 16
+    spriteID: be737b3ec4990f442ad54cc3d4a56344
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_263
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 63
+      width: 16
+      height: 16
+    spriteID: e8c7d937be79dd3438262832136be6f4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_264
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 4c3be0be0b61f00488718cd5d9303649
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_265
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 2149035fc5bae26489917e44569a866d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_266
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 03e69ff5243b979488f5cc79facf58fb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_267
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 1ce0685ebe328a446a3d42e6d36ab390
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_268
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 1c891b84a30107a4fa6183febffbff7f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_269
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 47
+      width: 16
+      height: 16
+    spriteID: c710aa27e30a9b44693c5f217a74af3b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_270
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 47
+      width: 16
+      height: 16
+    spriteID: bd8d2e78418f20346a72da152afca895
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_271
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 0fb38ec6eacf9aa44ad96db5b7a2d385
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_272
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 47
+      width: 16
+      height: 16
+    spriteID: f4f3bb77df7712e4b9a133be2a2d82aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_273
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 9f1bbf396e406394484cd54d483dc4bf
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_274
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 0c636d265517e4843b494db9020dfc19
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_275
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 8bf16e682bffebe4db35b2b96940ade5
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_276
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 167f05bae0d1c4148a5ef5380b8b4a14
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_277
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 47
+      width: 16
+      height: 16
+    spriteID: c5889fbd4716f9f49a326fc6cec45a9c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_278
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 19e0a5f025845dc4d8d88b11647c061d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_279
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 47
+      width: 16
+      height: 16
+    spriteID: f41ad23883437194e993521ebe1f997d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_280
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 47
+      width: 16
+      height: 16
+    spriteID: ee484a7885f7eaa4a95ae65cd13bbd5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_281
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 47
+      width: 16
+      height: 16
+    spriteID: d76eb4909224e8148866cde2d471e594
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_282
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 47
+      width: 16
+      height: 16
+    spriteID: c0c39db344eeee148be6d7fe1fb9488a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_283
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 2b7b64fb3615dbd49b84c0e4d3ba0343
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_284
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 568c8ca35d8157746912f43ade019bae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_285
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 47
+      width: 16
+      height: 16
+    spriteID: 2aaee3571db826f49a8166758f14ffed
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_286
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 31
+      width: 16
+      height: 16
+    spriteID: bb0acfef4ae724f41934fd9651205430
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_287
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 28f7466fc87e44843be8f5fc63f73d2f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_288
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 31
+      width: 16
+      height: 16
+    spriteID: c7cc04573a032d64fade351cc5e683f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_289
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 37334ff0eff225e47a0eaeb98e368bda
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_290
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 5c7a85a22e583654c8b20992094a1fc1
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_291
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 3dacc058cea50a044bc253894437aff3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_292
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 31
+      width: 16
+      height: 16
+    spriteID: ac52ad46f161571468651142feee0904
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_293
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 31
+      width: 16
+      height: 16
+    spriteID: f71e245e8d0ce054ab947675ae6e087c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_294
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 31
+      width: 16
+      height: 16
+    spriteID: c61e39920351b3c48acb69232874a2e6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_295
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 31
+      width: 16
+      height: 16
+    spriteID: af05a832103030b4b8d1e8f80dc145c3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_296
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 095fe8b250b4f5243a0cf17f3fc5a2aa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_297
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 804b0cfd8e46fb94a9e84842f74df50f
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_298
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 66142d0426594b8458d88fb61310e468
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_299
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 31
+      width: 16
+      height: 16
+    spriteID: fd28aaf40b8c1554c8092f5f3218c1b6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_300
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 8792d11f6e5aced4e9b9c79783b06907
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_301
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 2cb62080f07d7c74f91dce6c6d4e6632
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_302
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 2b202a26f22270b429521bbe86520c5c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_303
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 6bab1c39128915540b34e00be8643033
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_304
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 663b4606078b9e34eb2a8d6683d19d81
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_305
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 49cc8010b2fa7564eb567e62e2d336b8
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_306
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 31
+      width: 16
+      height: 16
+    spriteID: 6d7c63366749a4f4e9210da9a51f12e4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_307
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 31
+      width: 16
+      height: 16
+    spriteID: bd4e8ed5ff635a546a460708b1b44c4d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_308
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 38eb22d830fdda34f843d78128e4922b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_309
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 1b24498144c310945869fe835f0c2ff2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_310
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 15
+      width: 16
+      height: 16
+    spriteID: ef2abfadced4df041beadef51e5f0188
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_311
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 02662ec2790b07b4b8ff45118f639f03
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_312
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 90375bf677d4af84cb90eebaff3e0b82
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_313
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 3c32b7dd26ca54e449f23570114c54c6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_314
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 8379cf5440e04294ba37e0816c5efdb0
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_315
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 15
+      width: 16
+      height: 16
+    spriteID: d5f9b52453484ff45978d11c5fe16783
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_316
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 15
+      width: 16
+      height: 16
+    spriteID: a3d94f04e1891ee42b651941d8c49f23
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_317
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 96e94c770479197439bcd8e8166aad6e
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_318
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 209f51c0c76fbee4bb6f6c4bc7a874c4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_319
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 11e22b7e71d1e32438bf25ccac11fe70
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_320
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 0dc181b1e4623a548a234767a9789784
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_321
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 4cd8ea8bb9718b44ea9ea0b8a189b4eb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_322
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 15
+      width: 16
+      height: 16
+    spriteID: f853be5b6c3c3d243a0b621254630381
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_323
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 32af883ffd5a132428148c090e8d7bcc
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_324
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 823ec67e9e656484ca197eeb12c3d846
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_325
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 7c22e901ce787c9469afd36122963ae9
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_326
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 15
+      width: 16
+      height: 16
+    spriteID: c131c944a3191c24e915aadc4025e8a6
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_327
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 4f2adc47f3b6ab44d92913065b6437ef
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_328
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 8b200605f7c25eb40bc3d5f5228e30b4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_329
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 15
+      width: 16
+      height: 16
+    spriteID: 61e4af65530b3dd4081c1662d9df1469
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_330
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 672a4ada51d19f64793db3ed68f2adab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_331
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 16
+      y: 0
+      width: 16
+      height: 15
+    spriteID: e4b0e30865fb162429151a4d147e083a
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_332
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 32
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 5e9e84d70319dfd4eb48b4295f71827d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_333
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 434ae14f603e120438e0d0d11ccdc448
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_334
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 64
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 615fc3fdac5aa744eaf99d284c759917
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_335
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 0
+      width: 16
+      height: 15
+    spriteID: b5ff90feb2a4b7c4587543171178ffc4
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_336
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 6d3ec3f8938041f4484e440db6d9afaa
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_337
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 112
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 9c5320e9fa51d06459481c4fda20f4f2
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_338
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 128
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 73eb53f56acedd944b6fff563cd6fd71
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_339
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 144
+      y: 0
+      width: 16
+      height: 15
+    spriteID: e23999f03f6bdcf48bfb6f7e9cb53f37
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_340
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 160
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 894b043d90172014e86e57f906610deb
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_341
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 0643404a3981dce498374ffdbfd00bb3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_342
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 192
+      y: 0
+      width: 16
+      height: 15
+    spriteID: dad011941e9312e4a998f3cea75ddee3
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_343
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 208
+      y: 0
+      width: 16
+      height: 15
+    spriteID: a119d4b8f7130344db8f35cab67c1a79
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_344
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 81b8be6d0c6e19b498855d3c5819d38d
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_345
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 9ea20740692ced74fa1a7ed017991d0c
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_346
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 256
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 651bd569314e07b46a85221e370096ae
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_347
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 272
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 95540f2f063d5a24689282da905c9e59
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_348
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 288
+      y: 0
+      width: 16
+      height: 15
+    spriteID: da529b2a5b77f39419eff9eeb86dc892
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_349
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 304
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 5d3437bf70eecd143927c3a5fe8a36ab
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_350
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 0
+      width: 16
+      height: 15
+    spriteID: 2e26b13ffa74de44cbab1a6b6e82491b
+    spriteOutline: []
+    tessellationDetail: 0
+  - name: Recolored1Purple_351
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 336
+      y: 0
+      width: 16
+      height: 15
+    spriteID: c2089167109799e4ba97b41331532348
+    spriteOutline: []
+    tessellationDetail: 0
+  _secondaryTextures: []
