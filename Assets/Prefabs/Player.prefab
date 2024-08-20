@@ -232,6 +232,7 @@ MonoBehaviour:
   topSpeed: 100
   currentSpeed: 0
   boost: 0
+  boostDecayRate: 5
   drag: 0
   stunTime: 0.5
   velocity: {x: 0, y: 0}

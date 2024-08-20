@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     public float currentSpeed;
 
     public float boost;
+    public float boostDecayRate;
     public float drag;
 
     public float stunTime;
@@ -36,6 +37,11 @@ public class PlayerMovement : MonoBehaviour
 
         currentSpeed = moveSpeed + boost + drag;
         currentSpeed = Mathf.Clamp(currentSpeed, 0, topSpeed);
+
+        if (boost > 0)
+        {
+            boost -= Time.deltaTime * boostDecayRate;
+        }
 
         if (currentSpeed <= 0)
         {
