@@ -323,7 +323,7 @@ GameObject:
   - component: {fileID: 205541798}
   - component: {fileID: 205541797}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: OutlineCollider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
