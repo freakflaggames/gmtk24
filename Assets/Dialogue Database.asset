@@ -76,11 +76,11 @@ MonoBehaviour:
       type: 2
       typeString: CustomFieldType_Boolean
     portrait: {fileID: 0}
-    spritePortrait: {fileID: 21300000, guid: a69cc94c540912a44a0c0b19c65ef513, type: 3}
+    spritePortrait: {fileID: 21300000, guid: bd980b5506cbcc045839841861c2f2c4, type: 3}
     alternatePortraits: []
     spritePortraits:
-    - {fileID: 0}
-    - {fileID: 0}
+    - {fileID: 21300000, guid: 6e0e5bc0aad7ab84f96f8d9d32a9f826, type: 3}
+    - {fileID: 21300000, guid: ba4b43dc7f554324eb730a9b62c6df78, type: 3}
   items: []
   locations: []
   variables:
@@ -227,9 +227,17 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: CustomFieldType_Text
+      - title: Response Menu Sequence
+        value: 
+        type: 0
+        typeString: 
       conversationID: 1
       isRoot: 0
       isGroup: 0
@@ -337,7 +345,129 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 5
+        destinationConversationID: 1
+        destinationDialogueID: 6
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 217.14285
+        y: 325.05493
+        width: 160
+        height: 30
+    - id: 6
+      fields:
+      - title: Title
         value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 'Look at <i> you!</i> This is going to be fun. '
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
+        type: 0
+        typeString: 
+      conversationID: 1
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 1
+        originDialogueID: 6
+        destinationConversationID: 1
+        destinationDialogueID: 7
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 217.14285
+        y: 375.05493
+        width: 160
+        height: 30
+    - id: 7
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Ha...Hahahaha!
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
         type: 0
         typeString: 
       conversationID: 1
@@ -356,60 +486,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 217.14285
-        y: 325.05493
-        width: 160
-        height: 30
-    - id: 6
-      fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Description
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Actor
-        value: 2
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Dialogue Text
-        value: 
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Sequence
-        value: LoadLevel(MechanicsTesting);
-        type: 0
-        typeString: CustomFieldType_Text
-      - title: Response Menu Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 1
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks: []
-      conditionsString: 
-      userScript: 
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 243.68344
-        y: 425.81998
+        y: 425.05493
         width: 160
         height: 30
     entryGroups: []
@@ -1281,7 +1358,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 5
@@ -1336,7 +1417,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
         type: 0
         typeString: 
       conversationID: 5
@@ -1446,7 +1531,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 5
@@ -1599,7 +1688,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 6
@@ -1710,7 +1803,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=2)
+
+'
         type: 0
         typeString: 
       conversationID: 6
@@ -1919,7 +2016,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 7
@@ -1974,7 +2075,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
         type: 0
         typeString: 
       conversationID: 7
@@ -2029,7 +2134,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 7
@@ -2305,7 +2414,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=2)
+
+'
         type: 0
         typeString: 
       conversationID: 7
@@ -2458,7 +2571,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 8
@@ -2568,7 +2685,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=2)
+
+'
         type: 0
         typeString: 
       conversationID: 8
@@ -2721,7 +2842,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=2)
+
+'
         type: 0
         typeString: 
       conversationID: 9
@@ -3095,7 +3220,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 10
@@ -3205,7 +3334,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
         type: 0
         typeString: 
       conversationID: 10
@@ -3358,7 +3491,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 11
@@ -3511,7 +3648,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=2)
+
+'
         type: 0
         typeString: 
       conversationID: 12
@@ -3664,7 +3805,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 13
@@ -3818,7 +3963,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=1)
+
+'
         type: 0
         typeString: 
       conversationID: 14
@@ -3971,7 +4120,11 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: '{{default}};
+
+          SetPortrait(Goggles,pic=3)
+
+'
         type: 0
         typeString: 
       conversationID: 15
