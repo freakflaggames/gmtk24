@@ -12,6 +12,9 @@ public class PlayerGrowth : MonoBehaviour
 
     public ProceduralTail tail;
 
+    //Bark Functionality lol
+    public int orbCount = 0;
+    public AudioSource yumBark;
     private void FixedUpdate()
     {
         if (growTimer > 0)
@@ -31,5 +34,12 @@ public class PlayerGrowth : MonoBehaviour
         startSize = transform.localScale.x;
         targetSize = startSize + growAmount;
         growTimer = growTime;
+        orbCount++;
+        
+        if (orbCount >= 3)
+        {
+            yumBark.Play();
+            orbCount = 0;
+        }
     }
 }
