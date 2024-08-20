@@ -101,7 +101,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8592e3de92c047648891ca5baec7b352, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  minDistance: 5
+  minDistance: 10
   cells:
   - {fileID: 7350435465271101031}
   - {fileID: 3864403599016349305}
